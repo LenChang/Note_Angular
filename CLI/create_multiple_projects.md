@@ -1,5 +1,6 @@
+# Create multiple projects
 
-## Sample Code
+## Steps
 1. Create a project without application
 ```
 ng new [project name] --create-application=false
